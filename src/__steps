@@ -1,0 +1,6 @@
+firebase->
+1. npm i firebase
+2. https://console.firebase.google.com/u/0/ create project-> register app
+3. add firebase config in your project firebase/firebase.config.js and export app
+4. build->authentication->get started-> enable authentication provider method as required
+5. 
